@@ -1,4 +1,4 @@
-# 
+# exclusive RStudio for macOS Script | formula-editor + template-library offers the most advanced RStudio for macOS script, with formula-editor and template-library. Ideal for macOS
 
 
 
